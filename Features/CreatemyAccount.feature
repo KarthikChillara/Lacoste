@@ -12,3 +12,7 @@ Then user renters email
 Then user enters password
 And user enters confirm password
 And user enters create my account
+
+And User does logout
+
+# comment 
